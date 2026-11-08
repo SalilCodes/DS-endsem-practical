@@ -50,7 +50,9 @@ int main(){
   sp->size = n;
   sp->top = -1;
   sp->arr = (int *)malloc(sp->size*sizeof(int));
-  printf("stack creation successful");
+  printf("Stack successfully implemented using Array");
+  printf("contribution check");
+  printf("contri check again");
 
   
 
